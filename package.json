@@ -1,0 +1,26 @@
+{
+  "name": "graphqlserver",
+  "version": "1.0.0",
+  "description": "GraphQL server with Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CookiesDesign/graphQLServer.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Server"
+  ],
+  "author": "CookiesDesign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CookiesDesign/graphQLServer/issues"
+  },
+  "homepage": "https://github.com/CookiesDesign/graphQLServer#readme",
+  "dependencies": {
+    "express-graphql": "^0.12.0"
+  }
+}
